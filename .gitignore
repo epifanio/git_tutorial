@@ -1,0 +1,4 @@
+# Find templates at: https://github.com/github/gitignore
+
+#.ipynb_checkpoints/
+.idea/share
