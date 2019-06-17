@@ -1,4 +1,8 @@
 # git_tutorial
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epifanio/git_tutorial/master?filepath=index.ipynb)
+
+
 Git tutorial based on jupyter notebooks. 
 
 This tutorial is heavly based on the [git-novice](https://swcarpentry.github.io/git-novice/) tutorial, from swcarpentry.
