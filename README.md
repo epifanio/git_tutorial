@@ -1,6 +1,6 @@
 # git_tutorial
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epifanio/git_tutorial/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/epifanio/git_tutorial/master?urlpath=lab/tree/index.ipynb)
 
 
 Git tutorial based on jupyter notebooks. 
